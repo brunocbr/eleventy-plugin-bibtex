@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Savjee/eleventy-plugin-bibtex#readme",
   "devDependencies": {
     "autolinker": "^3.14.3",
-    "citation-js": "^0.5.1",
+    "citation-js": "^0.7.4",
     "eslint": "^7.26.0"
   }
 }
